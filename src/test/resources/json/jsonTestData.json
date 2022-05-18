@@ -1,0 +1,221 @@
+{
+  "total_count": 12,
+  "data": [
+    {
+      "id": 486,
+      "section_id": 4,
+      "name": "All Prints",
+      "slug": "/all",
+      "h1_title": "All Prints",
+      "seo_title": "All Prints",
+      "seo_description": "Browse thousands of unique art prints, art posters, canvas prints, and HD metal prints by artists from the ArtStation community.",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "0"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Browse thousands of unique art prints, art posters, canvas prints, and HD metal prints by artists from the ArtStation community."
+    },
+    {
+      "id": 485,
+      "section_id": 4,
+      "name": "Pop Culture",
+      "slug": "/pop-culture",
+      "h1_title": "Pop Culture prints",
+      "seo_title": "Pop Culture prints",
+      "seo_description": "Shop Pop Culture wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "1"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Browse wall art that showcases popular or mainstream culture and modern themes."
+    },
+    {
+      "id": 484,
+      "section_id": 4,
+      "name": "Nature and Landscapes",
+      "slug": "/nature-and-landscapes",
+      "h1_title": "Nature and Landscapes prints",
+      "seo_title": "Nature and Landscapes prints",
+      "seo_description": "Shop Nature and Landscapes wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "8"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Explore incredible wall art featuring natural environments, stunning landscapes, countrysides, mountains and more."
+    },
+    {
+      "id": 483,
+      "section_id": 4,
+      "name": "Sci-fi",
+      "slug": "/sci-fi",
+      "h1_title": "Sci-fi prints",
+      "seo_title": "Sci-fi prints",
+      "seo_description": "Shop Sci-fi wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "6"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Browse science fiction art prints, art posters, canvas prints and HD metal printss including space, time travel and alien life."
+    },
+    {
+      "id": 482,
+      "section_id": 4,
+      "name": "People",
+      "slug": "/people",
+      "h1_title": "People prints",
+      "seo_title": "People prints",
+      "seo_description": "Shop People wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "5"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Explore stunning portraits, character designs, figure drawings, caricatures and more."
+    },
+    {
+      "id": 481,
+      "section_id": 4,
+      "name": "Animals and Creatures",
+      "slug": "/animals-and-creatures",
+      "h1_title": "Animals and Creatures prints",
+      "seo_title": "Animals and Creatures prints",
+      "seo_description": "Shop Animals and Creatures wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "7"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Explore wall art that showcases animals and wildlife, paleoart, zoology, insects, creatures, monsters and more."
+    },
+    {
+      "id": 480,
+      "section_id": 4,
+      "name": "Concept Art",
+      "slug": "/concept-art",
+      "h1_title": "Concept Art prints",
+      "seo_title": "Concept Art prints",
+      "seo_description": "Shop Concept Art wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "11"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Explore wall art that features concept art and illustrations created to communicate the artistic vision of a project."
+    },
+    {
+      "id": 479,
+      "section_id": 4,
+      "name": "Magic and Fantasy",
+      "slug": "/magic-and-fantasy",
+      "h1_title": "Magic and fantasy prints",
+      "seo_title": "Magic and fantasy prints",
+      "seo_description": "Shop Magic and fantasy wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "2"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Browse wall art filled with magic, the enchanted and supernatural, fantasy, dragons, wizardry and more."
+    },
+    {
+      "id": 478,
+      "section_id": 4,
+      "name": "Cities and Architecture",
+      "slug": "/cities-and-architecture",
+      "h1_title": "Cities and Architecture prints",
+      "seo_title": "Cities and Architecture prints",
+      "seo_description": "Shop Cities and architecture wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "3"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Explore stunning wall art that showcases cityscapes, buildings, architecture, structures, and architectural environments."
+    },
+    {
+      "id": 477,
+      "section_id": 4,
+      "name": "Abstract and Surreal",
+      "slug": "/abstract-and-surreal",
+      "h1_title": "Abstract and Surreal prints",
+      "seo_title": "Abstract and Surreal prints",
+      "seo_description": "Shop Abstract and Surreal wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "4"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Browse abstract wall art including surrealism, cubism, dadaism and artwork that explores shapes, colors, and forms."
+    },
+    {
+      "id": 476,
+      "section_id": 4,
+      "name": "Military",
+      "slug": "/military",
+      "h1_title": "Military prints",
+      "seo_title": "Military prints",
+      "seo_description": "Shop Military wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "9"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Browse wall art featuring armed forces, soldiers, warriors, weapons and other military themes."
+    },
+    {
+      "id": 475,
+      "section_id": 4,
+      "name": "Tech",
+      "slug": "/tech",
+      "h1_title": "Tech prints",
+      "seo_title": "Tech prints",
+      "seo_description": "Shop Tech wall prints, art posters and canvases on ArtStation",
+      "custom_metadata": "",
+      "active": true,
+      "query_params": {
+        "sort_by": "trending",
+        "category_id": "10"
+      },
+      "parent_seo_page_id": null,
+      "children_count": 0,
+      "description": "Explore wall decor featuring robots, mechs, technology and more."
+    }
+  ]
+}
